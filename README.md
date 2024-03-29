@@ -27,8 +27,7 @@ Before running the project you must have a folder called build to store the buil
 
 
 
+https://github.com/RobelKasahun/cpp-opencv-edge-detection/assets/36493926/323fa4c1-227c-4d34-8a48-9933164f3049
 
 
-
-Uploading Screen Recording 2024-03-28 at 7.31.44 PM 2 (online-video-cutter.com).mp4…
 
