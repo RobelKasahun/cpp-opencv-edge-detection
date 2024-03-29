@@ -22,4 +22,13 @@ Before running the project you must have a folder called build to store the buil
       build git:(main) ✗ make
 
   7. Run your project     
-      build git:(main) ✗ ./opencvproject                                    
+      build git:(main) ✗ ./opencvproject
+
+
+
+
+
+
+
+Uploading Screen Recording 2024-03-28 at 7.31.44 PM 2 (online-video-cutter.com).mp4…
+
