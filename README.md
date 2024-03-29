@@ -5,21 +5,21 @@ To run the project you must have the following tools
   1. Install homebrew if you do not have it in your system                      
       /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-  2. Install opencv if you do not have it in your system using the command      
+  2. Install opencv if you do not have it in your system using the following command      
       brew install opencv
 
 Before running the project you must have a folder called build to store the build files
-  3. cpp-opencv-edge-detection git:(main) ✗ mkdir build                         
-      make build directory
+  3. make a directory named build                   
+      cpp-opencv-edge-detection git:(main) ✗ mkdir build      
 
-  4. cpp-opencv-edge-detection git:(main) ✗ cd build                            
-      change the directory to build
+  4. Change the current directory to build
+      cpp-opencv-edge-detection git:(main) ✗ cd build    
 
-  5. build git:(main) ✗ cmake ../                                               
-      builds the project
+  5. Build your project     
+      build git:(main) ✗ cmake ../                                        
 
-  6. build git:(main) ✗ make                                                    
-      compiles your project using make command
+  6. Compile your project using make command                                               
+      build git:(main) ✗ make
 
-  7. build git:(main) ✗ ./opencvproject                                         
-      runs your project
+  7. Run your project     
+      build git:(main) ✗ ./opencvproject                                    
