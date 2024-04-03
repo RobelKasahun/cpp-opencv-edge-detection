@@ -11,19 +11,19 @@ To run the project you must have the following tools
 Before running the project you must have a folder called build to store the build files
 
   3. make a directory named build                   
-      cpp-opencv-edge-detection git:(main) ✗ mkdir build      
+       ✗ mkdir build      
 
   4. Change the current directory to build
-      cpp-opencv-edge-detection git:(main) ✗ cd build    
+       ✗ cd build    
 
   5. Build your project     
-      build git:(main) ✗ cmake ../                                        
+      ✗ cmake ../                                        
 
   6. Compile your project using make command                                               
-      build git:(main) ✗ make
+      ✗ make
 
   7. Run your project     
-      build git:(main) ✗ ./opencvproject
+      ✗ ./opencvproject
 
 
 
