@@ -9,6 +9,7 @@ To run the project you must have the following tools
       brew install opencv
 
 Before running the project you must have a folder called build to store the build files
+
   3. make a directory named build                   
       cpp-opencv-edge-detection git:(main) ✗ mkdir build      
 
